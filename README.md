@@ -4,8 +4,8 @@ Uma clínica médica fictícia que precisa de um aplicativo para gestão de cons
 
 ⚙️ Funcionalidades.
 
-CRUD de médicos;
-CRUD de pacientes;
-Agendamento de consultas;
+CRUD de médicos.<br>
+CRUD de pacientes.<br>
+Agendamento de consultas.<br>
 Cancelamento de consultas.
 
